@@ -1,2 +1,7 @@
 # Simple-web-Lv1-CSS-BoxModel
-Hi There
+Hi there, today i made simple blog website.
+i use free image and free pattern. if you need the link you can exlpore more image and pattern in:
+1. https://unsplash.com/ (free image)
+2. https://www.toptal.com/designers/subtlepatterns/ (free patterns)
+
+you can see my live demo website in https://suhri-wrk.github.io/Simple-web-Lv1-CSS-BoxModel/
