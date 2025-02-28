@@ -5,4 +5,6 @@ i use free image and free pattern. if you need the link you can exlpore more ima
 2. https://www.toptal.com/designers/subtlepatterns/ (free patterns)
 
 you can see my live demo website in https://suhri-wrk.github.io/Simple-web-Lv1-CSS-BoxModel/
+
+preview:
 ![alt text](https://raw.githubusercontent.com/suhri-wrk/Simple-web-Lv1-CSS-BoxModel/refs/heads/main/preview%20the%20simple%20website.png)
